@@ -1,0 +1,14 @@
+body
+{
+  background: #383838
+}
+p {
+  color: violet
+}
+
+.destacado{
+  font-family:"arial";
+  font-style:italic;
+  font-size: 30px;
+  color: #F1480D
+}
